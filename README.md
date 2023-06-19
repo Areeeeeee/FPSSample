@@ -1,7 +1,7 @@
-# Berklee Senior Portfolio GAIM Capstone Project SU2023 
+# Berklee Senior Portfolio GAIM Capstone Project
 ## Audio Redesign using FMOD
 
-**Ari Graine**
+**Ari Graine** SU2023
 
 **Unity Version 2018.4.36f**
 
