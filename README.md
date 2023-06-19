@@ -16,6 +16,9 @@ https://github.com/Unity-Technologies/FPSSample
 More about FMOD: 
 https://www.fmod.com/
 
+**Platforms**
+Windows
+
 ![](Documentation/Images/Banner.png)
 
 *This project's redesigned audio is not to be used in commercial projects*
