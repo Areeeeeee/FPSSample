@@ -5,7 +5,7 @@
 
 **Unity Version 2018.4.36f**
 
-More about the base Unity FPS Sample project:
+More about the Unity FPS Sample project:
 
 https://unity.com/fps-sample
 
