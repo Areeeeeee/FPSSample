@@ -1,5 +1,5 @@
 # Berklee Senior Portfolio GAIM Capstone Project
-## Audio Redesign using FMOD - Summer 2023
+## FPS Sample Project Audio Redesign using FMOD - Summer 2023
 
 **Ari Graine**
 
