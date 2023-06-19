@@ -3,6 +3,7 @@ Senior Portfolio Capstone Project SU2023 - Audio Redesign using FMOD
 Ari Graine
 
 Unity Version 2018.4.36f
+
 More about the base Unity FPS Sample project:
 https://unity.com/fps-sample
 https://github.com/Unity-Technologies/FPSSample
