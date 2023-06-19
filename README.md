@@ -1,4 +1,5 @@
-**Berklee Senior Portfolio GAIM Capstone Project SU2023 - Audio Redesign using FMOD**
+# Berklee Senior Portfolio GAIM Capstone Project SU2023 
+## Audio Redesign using FMOD
 
 **Ari Graine**
 
